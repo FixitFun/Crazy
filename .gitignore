@@ -1,0 +1,40 @@
+# Unity-специфичные файлы
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# Автогенерируемые файлы проектов
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+
+# Файлы редактора
+.vs/
+.gradle/
+.idea/
+*.pidb
+*.booproj
+
+# Бинарные файлы
+*.dll
+*.exe
+*.pdb
+*.asset
+
+# Пакеты
+**/Assets/AssetStoreTools
+**/Assets/Plugins*
+
+# Настройки проекта
+ProjectSettings/ProjectVersion.txt
+
+# Системные файлы
+.DS_Store
+Thumbs.db
